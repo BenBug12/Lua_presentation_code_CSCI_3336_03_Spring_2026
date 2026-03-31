@@ -40,3 +40,10 @@ if ownsItem == true then
     
     print("Item equipped and ready to use!")
 end
+
+--x = 5
+--y = 10
+--x = "Hello"
+--x = x + y
+
+--print("The value of x is: " .. x)
